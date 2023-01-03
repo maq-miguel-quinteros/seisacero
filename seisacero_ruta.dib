@@ -1,0 +1,32 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":null,"items":[{"name":"csharp","languageName":"C#","aliases":["c#","cs"]},{"name":"fsharp","languageName":"F#","aliases":["f#","fs"]},{"name":"pwsh","languageName":"PowerShell","aliases":["powershell"]},{"name":"javascript","languageName":"JavaScript","aliases":["js"]},{"name":"html","languageName":"HTML"},{"name":"sql","languageName":"SQL"},{"name":"kql","languageName":"KQL"},{"name":"mermaid","languageName":"Mermaid"},{"name":"httpRequest","languageName":"http"},{"name":"value"}]}}
+
+#!markdown
+
+# Hoja de ruta de seisacero
+
+#!markdown
+
+Seisacero es una web de práctica del uso de las tecnologías `html`, `css` y `js`. Mediante esta hoja de ruta vamos a trazar el camino a la culminación de la página pasando por las diferentes etapas del proyecto.
+
+#!markdown
+
+## html básico
+
+#!csharp
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css" rel="stylesheet" type="text/css">
+    <title>seisacero</title>
+</head>
+<body>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

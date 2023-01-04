@@ -1,0 +1,7 @@
+.wrapper {
+    display: flex;
+}
+
+.izquierda{
+  flex-direction: row-reverse;
+}
